@@ -1,0 +1,119 @@
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.FPrincipal.resources
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfo.cs
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.exe
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.deps.json
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.runtimeconfig.json
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.dll
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.pdb
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.dll
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\refint\Figuras.dll
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.pdb
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.genruntimeconfig.cache
+C:\Users\HP\Desktop\Brenda\Uni\C#\Figuras\Figuras\obj\Debug\net6.0-windows\ref\Figuras.dll
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.exe
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.deps.json
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.runtimeconfig.json
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.dll
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.pdb
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.FPrincipal.resources
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.GenerateResource.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfo.cs
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.dll
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\refint\Figuras.dll
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.pdb
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.genruntimeconfig.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\Diseño y Desarrollo de la Programación Administrativa\practica\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\ref\Figuras.dll
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.exe
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.deps.json
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.runtimeconfig.json
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.dll
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.pdb
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.FPrincipal.resources
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfo.cs
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.dll
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\refint\Figuras.dll
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.pdb
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.genruntimeconfig.cache
+C:\Users\HP\Desktop\Brenda\Uni\Diseño y desarrollo\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\ref\Figuras.dll
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.exe
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.deps.json
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.runtimeconfig.json
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.dll
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.pdb
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.FPrincipal.resources
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.GenerateResource.cache
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfo.cs
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.dll
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\refint\Figuras.dll
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.pdb
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.genruntimeconfig.cache
+C:\Users\Mica\Desktop\TP 2\Figuras\Figuras\obj\Debug\net6.0-windows\ref\Figuras.dll
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.exe
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.deps.json
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.runtimeconfig.json
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.dll
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.pdb
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.FPrincipal.resources
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.GenerateResource.cache
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfo.cs
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.dll
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\refint\Figuras.dll
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.pdb
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.genruntimeconfig.cache
+C:\Users\Mica\Desktop\TP 2\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\ref\Figuras.dll
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.exe
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.deps.json
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.runtimeconfig.json
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.dll
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.pdb
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.AssemblyReference.cache
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.FPrincipal.resources
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.GenerateResource.cache
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfoInputs.cache
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfo.cs
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.dll
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\refint\Figuras.dll
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.pdb
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.genruntimeconfig.cache
+C:\Users\Mica\Downloads\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\ref\Figuras.dll
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.exe
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.deps.json
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.runtimeconfig.json
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.dll
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\bin\Debug\net6.0-windows\Figuras.pdb
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.FPrincipal.resources
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.GenerateResource.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.AssemblyInfo.cs
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.dll
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\refint\Figuras.dll
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.pdb
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\Figuras.genruntimeconfig.cache
+C:\Users\Mica\Desktop\Tecnicatura\2do año\1er cuatrimestre\Diseño y Desarrollo de la Programación Administrativa\practica\TP 3 - Mica\polimorfismo_Figuras\Figuras\obj\Debug\net6.0-windows\ref\Figuras.dll
